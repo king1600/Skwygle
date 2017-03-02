@@ -1,0 +1,8 @@
+{
+  "port"   : 48500,
+  "timeout": 2000,
+  "db_url" : "tcp://localhost:3306",
+  "db_name": "testdb",
+  "db_user": "test",
+  "db_pass": "password"
+}
